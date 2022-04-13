@@ -4,7 +4,7 @@ This program can be used to display one or more files in terminal
 
 ## commands:
 
-node main <filepath>
+node main \<filepath\>
   -displays file content in terminal
  
 node main <filepath1> <filepath2> <filepath3> .... <filepath(n)>
